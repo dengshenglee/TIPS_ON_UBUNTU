@@ -1,0 +1,3 @@
+gst-launch-1.0 tcambin ! videoconvert ! ximagesink
+
+

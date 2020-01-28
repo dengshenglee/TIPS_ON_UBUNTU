@@ -1,0 +1,1 @@
+dmesg|grep tty* 查看串口连接情况

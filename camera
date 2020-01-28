@@ -1,0 +1,34 @@
+cameraParams = 
+
+  cameraParameters - 属性:
+
+   Camera Intrinsics
+                    IntrinsicMatrix: [3×3 double]
+					-			        	-
+					|1.1538e+03	0		947.3898|
+					|0		1.1513e+03	534.4721|	
+					|0		0		1	|
+					-					-
+                        FocalLength: [1.1538e+03 1.1513e+03]
+                     PrincipalPoint: [947.3898 534.4721]
+                               Skew: 0
+                   RadialDistortion: [0.0768 -0.1577]
+               TangentialDistortion: [0 0]
+                          ImageSize: [1080 1920]
+
+   Camera Extrinsics
+                   RotationMatrices: [3×3×12 double]
+                 TranslationVectors: [12×3 double]
+
+   Accuracy of Estimation
+              MeanReprojectionError: 0.2011
+                 ReprojectionErrors: [54×2×12 double]
+                  ReprojectedPoints: [54×2×12 double]
+
+   Calibration Settings
+                        NumPatterns: 12
+                        WorldPoints: [54×2 double]
+                         WorldUnits: 'millimeters'
+                       EstimateSkew: 0
+    NumRadialDistortionCoefficients: 2
+       EstimateTangentialDistortion: 0

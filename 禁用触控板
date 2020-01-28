@@ -1,0 +1,2 @@
+$ sudo modprobe -r psmouse     #关闭
+$ sudo modprobe psmouse        #开启

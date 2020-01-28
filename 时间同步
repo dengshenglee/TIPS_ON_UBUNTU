@@ -1,0 +1,8 @@
+1、sudo apt-get install ntpdate // 安装时间同步工具
+
+
+2、sudo ntpdate cn.pool.ntp.org // 与网络服务器同步时间
+
+ 
+
+3、date // 查看时间是否已同步
